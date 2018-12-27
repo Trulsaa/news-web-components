@@ -1,0 +1,22 @@
+{
+  "name": "web_components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trulsaa/todo-web-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trulsaa/todo-web-components/issues"
+  },
+  "homepage": "https://github.com/Trulsaa/todo-web-components#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
